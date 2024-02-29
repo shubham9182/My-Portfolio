@@ -31,7 +31,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://https://my-portfolio-2imfx5qr7-shubham9182s-projects.vercel.app//" target="_blank">shubham.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://https://my-portfolio-2imfx5qr7-shubham9182s-projects.vercel.app" target="_blank">shubham.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
